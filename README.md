@@ -14,7 +14,7 @@ Usage
 ==
   In your controller -
 
-  include 'ObjectifyParams'
+  include ObjectifyParams
 
   The @objectified_params variable will be available to you in your controller.
 
