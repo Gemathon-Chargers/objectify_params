@@ -29,5 +29,5 @@ Example
     @objectified_params.filter.user.name
     > "Chunky"
     @objectified_params.filter.user.login
-    > "Becon"
+    > "Bacon"
 
