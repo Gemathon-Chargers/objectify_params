@@ -1,6 +1,8 @@
 Objectify Params
 ============
 
+[![Join the chat at https://gitter.im/Gemathon-Chargers/objectify_params](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Gemathon-Chargers/objectify_params?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Convert request parameters into a easily usabale object
 
 Installation
